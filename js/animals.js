@@ -8,7 +8,7 @@ export const ANIMALS = [
 		side: 'left',
 		row: 'front',
 		x: 34,
-		bottom: 13,
+		bottom: 12,
 	},
 	{
 		id: 'dog',
@@ -17,7 +17,7 @@ export const ANIMALS = [
 		side: 'right',
 		row: 'front',
 		x: 32,
-		bottom: 14,
+		bottom: 12,
 	},
 	{
 		id: 'fox',
@@ -26,7 +26,7 @@ export const ANIMALS = [
 		side: 'left',
 		row: 'front',
 		x: 9,
-		bottom: 12,
+		bottom: 10,
 	},
 	{
 		id: 'rabbit',
@@ -44,7 +44,7 @@ export const ANIMALS = [
 		side: 'left',
 		row: 'front',
 		x: 21.5,
-		bottom: 12,
+		bottom: 10,
 	},
 	{
 		id: 'bear',
@@ -71,7 +71,7 @@ export const ANIMALS = [
 		side: 'right',
 		row: 'front',
 		x: 21,
-		bottom: 14,
+		bottom: 12,
 	},
 	{
 		id: 'raccoon',
@@ -89,7 +89,7 @@ export const ANIMALS = [
 		side: 'right',
 		row: 'front',
 		x: 7.5,
-		bottom: 14,
+		bottom: 11,
 	},
 ];
 

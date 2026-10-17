@@ -1,4 +1,4 @@
-# Peachily
+# 동물 구조 게임
 
 달에 남겨진 동물들을 로켓에 태워 지구로 데려가는 어린이용 덧셈 미니게임입니다.  
 숫자 키패드로 연료를 채워 **10의 보수**(두 수의 합이 10)를 맞추면 로켓이 발사됩니다.
@@ -7,12 +7,6 @@
 
 ```bash
 npx serve .
-```
-
-성공 화면만 보려면 게임 페이지 콘솔에서:
-
-```js
-location.href = 'success.html';
 ```
 
 ---
@@ -31,7 +25,7 @@ location.href = 'success.html';
 ## 디렉토리 구조
 
 ```
-peachily/
+school05-animal-rescue/
 ├── README.md                  # 프로젝트 소개와 파일 역할
 ├── index.html                 # 게임 페이지 진입점 (마크업)
 ├── .gitignore                 # Git에서 제외할 파일 규칙
